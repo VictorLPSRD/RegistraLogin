@@ -21,3 +21,13 @@ Clone este repositório para o seu computador:
 bash
 Copiar código
 git clone https://github.com/seuusuario/registra-login.git
+
+## Estrutura do Projeto
+registra-login/
+│
+├── src/
+│   ├── RegistraLogin.java        # Classe principal com a lógica de login
+│   ├── Usuario.java             # Classe para representar o usuário
+│
+└── README.md                   # Este arquivo
+

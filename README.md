@@ -15,3 +15,9 @@ Antes de executar o projeto, certifique-se de ter o seguinte instalado:
 
 JDK 11 ou superior.
 Um editor de código de sua escolha (IntelliJ IDEA, Eclipse, etc).
+
+# Como Executar
+Clone este repositório para o seu computador:
+bash
+Copiar código
+git clone https://github.com/seuusuario/registra-login.git
